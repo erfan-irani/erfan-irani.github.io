@@ -1,0 +1,17 @@
+h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+@media all and (max-width:575px){
+    h2{
+        font-size: 20px;
+    }
+  
+}
